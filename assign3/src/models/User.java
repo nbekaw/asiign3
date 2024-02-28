@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.sql.SQLException;
 
-public class User extends Main {
+public class User {
     private String username;
     private String password;
     private String number;
